@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">24-x健身中心</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">登入頁面</string>
+    <string name="title_activity_loading">登入跳頁</string>
+    <string name="title_activity_news">活動頁面</string>
+    <string name="title_activity_news_door">頁面開門</string>
+    <string name="title_activity_main_app">主頁面</string>
+    <string name="title_activity_info">簡介</string>
+    <string name="title_activity_students">學員見證</string>
+    <string name="title_activity_person">教練團隊</string>
+    <string name="title_activity_stores">活動據點</string>
+    <string name="title_activity_exit">退出</string>
+    <string name="title_activity_coach">教練頁面</string>
+    <string name="title_activity_coach__adapter">教練接口</string>
+
+</resources>
